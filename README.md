@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ***@sudo-JACT***
 - 👀 I’m interested in ***Programming*** and ***Ethical Hacking***
-- 🌱 I’m currently learning ***Python***, ***C/C++***, ***Swift*** and ***Penetration Testing***
+- 🌱 I’m currently learning ***Python***, ***Java***, ***Html***, ***Css***, ***Javascript***, ***C/C++***, ***Swift*** and ***Penetration Testing***
 - 💞️ I’m looking to collaborate on a ***project***
 
 <a href="#"><img src="https://media.tenor.com/images/fb93d897700567742a0dd643ae2b922e/tenor.gif" alt="image"></a>
