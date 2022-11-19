@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-JACT&show_icons=true&theme=dark)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudo-JACT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="#"><img src="https://media.tenor.com/images/fb93d897700567742a0dd643ae2b922e/tenor.gif" alt="image"></a>
 
