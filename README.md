@@ -11,7 +11,7 @@
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%23b38600&aColor=%2300ff00&borderColor=%23ffbf00" alt="Some jokes"/>
 
 <!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jacoposgtoma)-->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jacoposgtoma&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jacoposgtoma&count={10})
 
 <a href="#"><img src="https://media.tenor.com/images/fb93d897700567742a0dd643ae2b922e/tenor.gif" alt="image"></a>
 
