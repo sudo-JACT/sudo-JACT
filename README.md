@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sudo-JACT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%23b38600&aColor=%2300ff00&borderColor=%23ffbf00" alt="Some jokes">
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%23b38600&aColor=%2300ff00&borderColor=%23ffbf00" alt="Some jokes"/>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jacoposgtoma)
 
