@@ -3,6 +3,8 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-JACT&show_icons=true&theme=dark)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64c0d9c4fcdcf9c5d50d7d42?variant=dark)](https://roadmap.sh)
+
  [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,c,cpp,swift,rust,php,linux)](https://skillicons.dev)
  
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%23b38600&aColor=%2300ff00&borderColor=%23ffbf00" alt="Some jokes"/>
