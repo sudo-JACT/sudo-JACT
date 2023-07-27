@@ -7,6 +7,7 @@
 
 
 Languages and Tools: 
+<br/>
  [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,c,cpp,swift,rust,php,linux, androidstudio, arduino, bash, blender, bootstrap, docker, react)](https://skillicons.dev)
  
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%23b38600&aColor=%2300ff00&borderColor=%23ffbf00" alt="Some jokes"/>
