@@ -64,7 +64,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time I play the bass with my band.
+- :guitar: In my free time I play the bass with my band.
 
 </p>
 
