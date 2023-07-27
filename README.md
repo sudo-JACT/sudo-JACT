@@ -49,6 +49,11 @@
 
 <div class="s1">
 
+</div>
+
+</div>
+</div>
+
 <p>
 
 - I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
@@ -70,14 +75,14 @@
 <br/>
 <br/>
 
+<div align=center>
+
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=jacoposgtoma)
 
 </div>
 
-</div>
-
 <!--<a href="#"><img src="https://media.tenor.com/images/fb93d897700567742a0dd643ae2b922e/tenor.gif" alt="image"></a>-->
-</div>
+
 <!---
 sudo-JACT/sudo-JACT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
