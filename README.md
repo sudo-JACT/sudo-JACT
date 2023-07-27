@@ -1,33 +1,3 @@
-<style>
-
-    .grid {
-        display: grid;
-        grid-template-rows: auto auto auto auto;
-        grid-template-columns: auto auto auto auto;
-        /*background-color: #2196F3;*/
-        padding: 10px;
-    }
-
-    .s1 {
-        /*background-color: rgba(255, 255, 255, 0.8);*/
-        /*border: 1px solid rgba(0, 0, 0, 0.8);*/
-        padding: 20px;
-        font-size: 30px;
-        text-align: center;
-    }
-
-
-    .lol {
-
-        display: inline-block;
-
-    }
-
-    
-
-</style>
-
-
 <div align=center>
   
   <h2>My Analytics</h2>
@@ -96,6 +66,9 @@
 </div>
 
 <div class="s1">
+
+<br/>
+<br/>
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=jacoposgtoma)
 
