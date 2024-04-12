@@ -66,6 +66,8 @@
 
 - :guitar: In my free time I play the bass with my band.
 
+BTW this is my ![BandCamp](https://writhingmisery.bandcamp.com/)
+
 </p>
 
 </div>
