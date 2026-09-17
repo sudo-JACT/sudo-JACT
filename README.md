@@ -66,7 +66,6 @@
 
 - :guitar: In my free time I play the bass with my band.
 
-BTW this is my <a href="https://writhingmisery.bandcamp.com/" target="_black">BandCamp</a>
 
 
 </p>
@@ -80,8 +79,8 @@ BTW this is my <a href="https://writhingmisery.bandcamp.com/" target="_black">Ba
 
 <div align=center>
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=jacoposgtoma)
-
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jacoposgtoma)
+        
 </div>
 
 <!--<a href="#"><img src="https://media.tenor.com/images/fb93d897700567742a0dd643ae2b922e/tenor.gif" alt="image"></a>-->
