@@ -37,7 +37,7 @@
 
 <h2>Languages and Tools</h2>
 
- [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,c,cpp,swift,rust,php,linux,androidstudio,arduino,bash,blender,bootstrap,docker,react)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,c,cpp,php,linux,arduino,bash,docker,go,mysql)](https://skillicons.dev)
  
 
 
