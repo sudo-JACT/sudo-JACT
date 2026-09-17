@@ -60,7 +60,7 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :book: I'm studying cybersecurity and DevOps.
+- :book: I'm studying embedded.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -80,7 +80,7 @@
 <div align=center>
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=jacoposgtoma)
-        
+
 </div>
 
 <!--<a href="#"><img src="https://media.tenor.com/images/fb93d897700567742a0dd643ae2b922e/tenor.gif" alt="image"></a>-->
